@@ -1,2 +1,3 @@
 # TKA-Tank-codes
-basicly some of my galery of tank codes(dont impersonate me , i have a lot more than theese codes-_-)
+some of my tank codes, do whatever u want with them (except abusing ofc)
+
