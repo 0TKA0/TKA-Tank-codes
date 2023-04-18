@@ -1,0 +1,248 @@
+(#)-dev-ish tanks( that normaly only devs can use BUT i want yall to have fun so i placed them there
+(##)- same as (#), but tier 2
+(R)- rebels
+(X,@Y)-Hardness (0-17)(@0-@17)
+(X...- normal hardness (ffa,2tdm,4tdm,open siege, boss hunt, squads, duos etc.)
+...@Y)-Siege difficulty (while protected)
+
+Summary of bosses:
+
+Sanctuaries:
+
+An entity on player's side, doesn't upgrade, singular entities positioned in the corners of the map.
+It is also thought that it repulses bosses away from it.
+
+
+Rebels:
+
+They look very similar to something, but i cant put my finger on it....
+anyways, not too strong, but has tanky bullets
+
+
+Adherenter:
+
+Elite crasher ripoff but stronger and better
+
+
+
+Arsonist:
+
+i thought it would be stronger.... it shouldve been danger of 1, but it still 
+can do devious damage up close unprotected,sooooo...
+
+
+Bow:
+
+dont get relaxed too soon :>
+
+
+Cogwheel(and variants):
+
+Cogwheel: u will understand why its named like that after u see it
+
+Gear: slitly stronger
+
+Mechanism: i think i overdone it...
+
+Singularity: yea i need to stop doing theese insane yet somewhat ballanced bosses...
+
+
+Contaminator: 
+
+too laggy, ill probably delete it...
+
+
+Raider(and variants):
+
+Raider: A boss that is customly breeded over time to be able to deal massive damage to domes, can be perfected
+
+Voyager: A boss that is customly breeded over time to be able to OBLIDERATE domes in seconds, can be better
+
+Dome Eater: the name says it all
+
+
+Exiler: 
+
+boss with a lot of traps and an good auto turret. perfectly weak
+
+
+Hexa Trouble (and variants):
+
+Triple Trouble: 3 trouble drone spawners and 3 autos. seems op, but its actually O.K.
+
+Hexa trouble: 3 trouble drone spawners, 3 normal drone spawners and 3 flank turrets. seems op, but its actually ballanced
+
+Octa Trouble: 4 Buffed trouble drone spawners, 4 drone spawners and 4 pena shots (shoots in 5 different d
+irections in equal distance from eachother). i think i should stop now...
+
+Hexatetra Trouble: SKIE! I made another one :] ( i lacked big bosses at that moment) 
+
+Description of hexatetra trouble: 8 WHOLE Armed Trouble[3Xtrouble] minion spawner, 8 buffed drone spawners, 4 auto quintets and 4 auto flank turrets.
+yea, now ill stop with this...
+
+
+Ragnarok: the remake of the well-known boss from arras io, but buffed *a little* :]
+
+
+T-800: 
+named after terminator itself. This boss stands after its name.
+
+War Ship: spammy square drone boss, isnt that powerfull while doesnt have its trusty drones
+
+
+
+Celestial Bosses:
+
+Athea: 1st boss created in this remake. pretty weak for an celestial. Ch4o2 6oA 98.6 wants her demoted
+
+Ch4o2 6oA's
+
+34.8: chaos apostole, 3480 years of selective breeding to create an chaos machine. didnt work quite well...
+
+98.6: also an chaos apostole, 986# years of selective breeding to create an chaos machine. the developer forgot to add more health and made it 
+have too much firepower
+
+256: 25600 years of selective breeding to create an chaos machine, but this time, it actually worked. only god knows how many of theese things 
+are living under the crust of this planet at this very moment...
+
+LITE: Chaos machine, ##### years of selective breeding to make smaller Ch4o2 6oA 256 bosses, at a cheaper cost!
+
+Gyzard:
+
+hes the "Health" of the celestials!
+Get it?
+because its a healer.....
+
+
+Egg Bosses
+
+Eggs are considered to be the weakest "polygons". well... it IS true, but its devistating to them.
+
+
+ES bosses:
+
+ES=Egg Seed (or egg sanctuary)
+
+weak bosses, arent a big threat unless u ram them.
+
+
+EK bosses:
+
+EK=Egg King
+
+love to ram, and shoot a lot, just like hybrid.... but quintet
+
+
+EM boss(es):
+
+EM=Egg mania. 
+overpowered.
+
+
+EQ bosses:
+
+EQ=Egg Queen
+
+gives support and healing to the other eggs
+
+
+
+Polygon Team(ed) bosses:
+
+
+Triangle seed: weakest boss from here. only thing that makes it dangerous is its spammy 
+-drone- triangle spawner at its back and its dream to hug you to death :>
+
+
+Square seed: 2nd  weakest boss from here. only thing that makes it dangerous is its spammy 
+Squares -drones- spawner at its back and its dream to hug you to death or crush you with its squares :>
+
+
+Provoker: triangle seed but triple. it refuses to ram you
+
+Summoner: the middle of the squad. its more powerfull than you remember it beeing
+
+Demiser: Provoker+Summoner+Egg seed = this monstrosity
+
+Elite snake: 6 normal snake turrets and 3 big snake turrets.
+
+Nest Guardian: seems familiar....
+
+Nest keeper: feels better than ever before
+
+Nest Warden: take a (scenexe.io) tridecagon and make it have 2 twin turrets on each side and tridecagon drone spawners
+yeah, its kinda like that but in here...
+
+
+Rouge Bosses:
+
+They arent QUITE bosses, but they are more powerfull than players. they are mindless zombies that
+hunt evrything that doesnt seem like them, even other rouges (seems racist, dont you think?)
+
+Extras:
+
+Tiers:
+
+Tier 0
+
+your average starter tank. it is in arras, diep and (kinda in) scenexe io
+
+Tier 1:
+
+upgrade
+
+Tier 2:
+
+upgrade^2
+
+Tier 3:
+
+upgrade^3
+
+Tier 4 (aka imperials)
+
+upgrade^4
+
+you need to get to an certain portal at a certain xp value to *ascend*
+
+
+Siege exclusive tiers:
+
+Most likely has an "(@X)" in front. the "@" means its siege exclusive, and the "X" is the number of the tier.
+
+
+Allies:
+
+Bosses controlled by players that dont upgrade and usually are weak, but can be stronger after certain waves (7;14;20)
+
+
+Polygons:
+
+Most of them (except eggs) are toughter than players. i suggest not attacking them unless you are alone or underleveled, they arent 
+much value at low levels.
+
+there are more variants, just like:
+
+Armed: they are armed....
+
+Infested: crashers but tiered.exe
+
+tier 8-15: super rare polygons
+
+Clockwise polygons:
+
+them rotationg in another direction gives them some kind of benefit... but they dont seem to evolve. hmmmm
+
+
+Dome(s):
+
+Singular entities that need protection. it seems to atract bosses for some reason...
+
+
+Vault:
+Part of a new gamemode called "Heist". to thoose who were here from  the start, know that 
+imperials were a special tank in a 2v5 event. (They drop an healing station after their death)
+and here it is! the 2v5 event
+2 elite vaults vs 5 vaults.
+Puprule vs Imperials
+who will win?
