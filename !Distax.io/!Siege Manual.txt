@@ -1,0 +1,525 @@
+Idea:
+
+1 dome in the middle
+
+
+5 difficulties:
+
+Easy/Normal/Hard/Hard+/Challanging/Ch4o2
+
+Each difficulty gives siege tokens [easy->hard+ +1(each); hard+->Challanging +2; Challanging->Ch4o2 +4]
+
++1 dome: 2 tokens
+Max tier upgrade (3->4): 5 tokens
+Ally upgrade/Ascending: 1 Token [One player can become an ally, or upgrade an already existing one]
+Summon Friendly rouges [3x]: 1 token
+
+After each defeat of siege gamemode the token count resets, but if you win the Ch4o2 difficulty, you get 5 instant siege Tokens for the next siege rounds(3 of them)
+
+
+Waves:
+
+[Easy] Wave 1:
+
+1x Adherenter
+1x ES-1
+1x Raider
+
+
+[Easy] Wave 2:
+
+1x ES-1
+2x Adherenter
+1x Raider
+
+
+[Easy] Wave 3: [You have awaken the guardians of the polygons......]
+
+1x ES-2
+1x EQ-1
+1x Square seed
+1x Triangle seed
+
+
+[Normal, +1 siege token] Wave 4:
+
+1x EK-1
+1x Summoner
+2x Elite Snake
+1x Adherenter
+
+
+[Normal] Wave 5:
+
+1x Provoker
+1x Cogwheel
+1x adherenter
+2x ES-2
+1x EQ-1
+
+
+[Normal] Wave 6:
+
+3x Adherenter
+2x ES-1
+1x Summoner
+
+[Normal] Wave 7: [An visitor from another world will arrive soon....]
+
+1x Athea
+
+
+[Normal] Wave 8:
+
+1x Demiser
+1x Summoner
+1x Triangle Seed
+1x Cogwheel
+
+
+[Hard, +1 token] Wave 9: [The energy of the air is changing.... + You have a bad feeling about this...]
+
+1x T-800
+
+
+[Hard] Wave 10:
+
+1x Athea
+2x Adherenter
+1x EK-2
+
+
+[Hard] Wave 11: [The eggs are mad... + They are sending their closest army towards your location... + Prepare for War... ]
+
+2x ES-3
+1x EQ-2
+1x EK-2
+3x ES-3
+
+
+[Hard] Wave 12:
+
+2x Summoner
+1x Demiser
+3x Adherenter
+
+
+[Hard] Wave 13:
+
+1x Bow
+1x Cogwheel
+1x Ek-2
+
+
+[Hard] Wave 14: [Someone will join you soon, but be carefull...]
+
+1x Rouge Quintet (Celestial team)
+1x Rouge Dodeca Shot (player team)
+2x Adherenter
+
+
+[Hard+, +1 Token] Wave 15:
+
+2x Bow
+
+
+[Hard+] Wave 16:
+
+2x Raider
+1x Rouge Dodeca Shot (Celestial team)
+
+
+[Hard+] Wave 16:
+
+1x Nest Keeper
+1x Demiser
+1x Adherenterer
+
+
+[Hard+] Wave 17: [Horns of war are heard from a distance.... + The smell of fire is felt from afar... + Someone is fleeing towards you....]
+
+1x Ch4o2 6oA 34.8(Apostole of Chaos)
+2x Rouge Dodeca Shot (Team of : #ffa5ff)
+
+
+[Hard+] Wave 18: [Looks like someone doesnt want to come here yet...]
+
+3x Rouge Dodeca Shot (Celestial team)
+1x Rouge Quintet (Celestial team)
+
+
+[Hard+]Wave 19: [Seems like fun...]
+
+2x T-800
+2x Summoner
+1X Triangle seed
+2x EK-2
+
+
+[Challanging, +2 tokens]Wave 20:
+
+1x Ch4o2 6oA 98.6
+1x Ch4o2 6oA 34.8
+
+
+[Challanging] Wave 21:
+
+1x Ch4o2 6oA 98.6
+2x Ch4o2 6oA 34.8
+
+
+[Challanging] Wave 22:
+
+1x Bow
+2x EK-1
+
+
+[Challanging] Wave 23: [ The eggs are in need of revenge... + Prepare for war.... ]
+
+1x EK-2
+3x EQ-1
+1x EQ-2
+2x ES-3
+1x ES-2
+1x ES-1
+
+
+[Challanging] Wave 24:
+
+50% Ch4o2 6oA LITE
+
+50% 2x Summoner, 1x Demiser, 1x Nest Keeper, 2x Elite Snake
+
+
+
+[Challanging] Wave 24:
+
+50% Ch4o2 6oA LITE (if chosen already, ignore)
+
+25% 1x T-800, 2x Rouge Quintet (same team as T-800)
+
+25% 1x Nest Guardian, 2x Demiser
+
+
+
+[Challanging] Wave 24:
+
+33% Ch4o2 6oA LITE (if chosen already, ignore)
+
+33% 3x EQ-2, 1x EK-2
+
+33% 2x Summoner, 2x Demiser
+
+
+[Ch4o2] Wave 25: [ You start having a bad feeling about this...]
+
+3x Ch4o2 6oA 34.8
+2x Ch4o2 6oA 98.6
+
+
+[Ch4o2] Wave 26:
+
+1x Gyzard
+1x Athea
+1x Ch4o2 6oA 34.8
+1x Ch4o2 6oA 98.6
+2x EK-2
+1x Ch4o2 6oA LITE
+
+
+[Ch4o2] Wave 27:
+
+2x Ch4o2 6oA LITE
+
+
+[Ch4o2] Wave 28:
+
+2x T-800
+1x Bow
+1x Ch4o2 6oA LITE
+1x Gyzard
+1x Ch4o2 6oA 98.6
+2x Nest Keeper
+
+
+[Ch4o2] Wave 29: [Horns of war are heard from a distance.... + The smell of fire are heard from afar... + You look into the distance.... + and you see it...]
+
+1x Ch4o2 6oA 256
+
+
+[Ch4o2] Wave 30: [looks like someone got the message wrong...]
+
+1x Ragnaro:k [ the "o" doesnt save with the " : " on top ] 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
+[Ch4o2] Wave 31:
+
+1x 
+
+
